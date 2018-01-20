@@ -1,0 +1,22 @@
+depth: 23
+end_at: ['1', '2', '3', '4', '5', '6', '7', '8', '0']
+explored_count: 104401
+queue_size_end: 65751
+queue_size_max: 66350
+meet_at: None
+path: ['Up', 'Up', 'Right', 'Down', 'Left', 'Down', 'Left', 'Up', 'Up', 'Right', 'Right', 'Down', 'Left', 'Left', 'Up', 'Right', 'Down', 'Down', 'Left', 'Up', 'Right', 'Up', 'Left']
+search_method: bfs
+start_at: ['1', '0', '6', '8', '4', '2', '3', '7', '5']
+time_algo: 9.95548964
+
+depth: 23
+end_at: ['1', '2', '3', '4', '5', '6', '7', '8', '0']
+explored_count: 1952
+queue_size_end: 1401
+queue_size_max: 1402
+meet_at: ['1', '6', '2', '0', '4', '5', '7', '8', '3']
+path: ['Up', 'Up', 'Right', 'Down', 'Left', 'Down', 'Left', 'Up', 'Up', 'Right', 'Right', 'Down', 'Left', 'Left', 'Up', 'Right', 'Down', 'Down', 'Left', 'Up', 'Right', 'Up', 'Left']
+search_method: bds
+start_at: ['1', '0', '6', '8', '4', '2', '3', '7', '5']
+time_algo: 0.07812667
+
